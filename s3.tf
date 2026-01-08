@@ -29,5 +29,4 @@ bucket = "mustafashaik1122.monobucket"
 key = "prod/terraform.tfstate"
 }
 }
-#terraform
-#my terraform code
+
